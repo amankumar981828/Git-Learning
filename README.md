@@ -1,4 +1,4 @@
 # Git-Learning
 Leraning Git from Youtube.
 <br>
-Author - Aman Kumar
+Author - Aman Kumar(Owner) and resident
